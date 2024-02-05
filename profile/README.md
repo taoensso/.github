@@ -2,9 +2,9 @@
 
 **Or**: The open source nonsense of [Peter Taoussanis](https://github.com/ptaoussanis) :-)
 
-- [My open source libraries](https://www.taoensso.com/clojure)
-- [My open source roadmap](https://www.taoensso.com/roadmap) (upcoming stuff, etc.)
-- [My homepage](https://www.taoensso.com) (about me, news, etc.)
+- [Libraries](https://www.taoensso.com/clojure)
+- [Roadmap](https://www.taoensso.com/roadmap) (upcoming stuff, etc.)
+- [Homepage](https://www.taoensso.com) (about me, news, etc.)
 
 To be notified of new releases, please use GitHub's **Watch** feature for the relevant repos:
 
